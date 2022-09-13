@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T02:47:14.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.2.8" etag="l3mQ0bI3ItnAsLW-6W4T" type="github"><diagram id="yk7Wy_m7ib7YTdtN1Xht">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-13T03:01:53.485Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="c4Kd5bKlEQPRj2bNwgSD" version="20.2.8" type="github">
+  <diagram id="yk7Wy_m7ib7YTdtN1Xht" name="第 1 页">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" width="350" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0CDH_6EZPS2PSCiSKXK-1" target="F0CDH_6EZPS2PSCiSKXK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-1" value="读取XML文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="F0CDH_6EZPS2PSCiSKXK-2" target="F0CDH_6EZPS2PSCiSKXK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0CDH_6EZPS2PSCiSKXK-2" target="F0CDH_6EZPS2PSCiSKXK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-2" value="是否需要获取对应的依赖" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0CDH_6EZPS2PSCiSKXK-3" target="F0CDH_6EZPS2PSCiSKXK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-3" value="继续读取XML文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0CDH_6EZPS2PSCiSKXK-4" target="F0CDH_6EZPS2PSCiSKXK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-4" value="XML to Dom Tree" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0CDH_6EZPS2PSCiSKXK-5" target="F0CDH_6EZPS2PSCiSKXK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="20" />
+              <mxPoint x="225" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-5" value="根据规则找到对应的依赖文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="225" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0CDH_6EZPS2PSCiSKXK-10" value="输出scheme json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
