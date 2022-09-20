@@ -1,44 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T02:31:05.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="x6ICa34dY5BCoCHPeJSw" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T03:29:46.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="f-bxDupVdAT0Ftd6YmeE" version="20.3.3" type="github">
   <diagram id="VBuluh6JdLj000MuPLF7" name="第 1 页">
-    <mxGraphModel dx="1796" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iWvB2rDSd_n453SWa2m8-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="20" width="1110" height="680" as="geometry" />
+          <mxGeometry x="-120" y="20" width="1240" height="680" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="40" width="920" height="520" as="geometry" />
+          <mxGeometry x="-100" y="40" width="1050" height="520" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="440" width="410" height="90" as="geometry" />
+          <mxGeometry x="150" y="440" width="510" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-20" value="智能诊断图谱平台（更新维护）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="60" width="420" height="60" as="geometry" />
+          <mxGeometry x="140" y="60" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-9" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;数据全流程分析及可视化&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="440" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-10" value="报警信息统计分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="480" width="120" height="30" as="geometry" />
+          <mxGeometry x="160" y="480" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-11" value="工单信息统计分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="480" width="120" height="30" as="geometry" />
+          <mxGeometry x="340" y="480" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-12" value="工单处理流程统计分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="480" width="130" height="30" as="geometry" />
+          <mxGeometry x="510" y="480" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iWvB2rDSd_n453SWa2m8-15" value="人工创建" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iWvB2rDSd_n453SWa2m8-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="280" as="sourcePoint" />
-            <mxPoint x="410" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="iWvB2rDSd_n453SWa2m8-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iWvB2rDSd_n453SWa2m8-18" target="iWvB2rDSd_n453SWa2m8-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-18" value="报警信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="230" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iWvB2rDSd_n453SWa2m8-19" value="工单系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="230" width="150" height="100" as="geometry" />
+        <mxCell id="iWvB2rDSd_n453SWa2m8-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iWvB2rDSd_n453SWa2m8-19" target="iWvB2rDSd_n453SWa2m8-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWvB2rDSd_n453SWa2m8-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iWvB2rDSd_n453SWa2m8-18" target="iWvB2rDSd_n453SWa2m8-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,7 +46,7 @@
             <mxPoint x="410" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWvB2rDSd_n453SWa2m8-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="iWvB2rDSd_n453SWa2m8-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.863;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iWvB2rDSd_n453SWa2m8-70" target="iWvB2rDSd_n453SWa2m8-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="484.5" y="330" as="sourcePoint" />
             <mxPoint x="484.5" y="440" as="targetPoint" />
@@ -63,9 +63,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWvB2rDSd_n453SWa2m8-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.821;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iWvB2rDSd_n453SWa2m8-20" target="iWvB2rDSd_n453SWa2m8-19">
+        <mxCell id="iWvB2rDSd_n453SWa2m8-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iWvB2rDSd_n453SWa2m8-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="517" y="120" as="sourcePoint" />
+            <mxPoint x="590" y="120" as="sourcePoint" />
             <mxPoint x="290" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -123,17 +123,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-48" value="诊断方案问答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="230" width="150" height="100" as="geometry" />
+          <mxGeometry x="780" y="230" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-49" value="智能搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="60" width="150" height="100" as="geometry" />
+          <mxGeometry x="780" y="75" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-51" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iWvB2rDSd_n453SWa2m8-20" target="iWvB2rDSd_n453SWa2m8-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="250" as="sourcePoint" />
             <mxPoint x="420" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="80" />
+              <mxPoint x="710" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -142,27 +142,27 @@
             <mxPoint x="370" y="250" as="sourcePoint" />
             <mxPoint x="420" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="180" />
+              <mxPoint x="700" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="40" width="120" height="520" as="geometry" />
+          <mxGeometry x="980" y="40" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-56" value="日志监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="70" width="100" height="50" as="geometry" />
+          <mxGeometry x="990" y="70" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-57" value="异常埋点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="140" width="100" height="50" as="geometry" />
+          <mxGeometry x="990" y="140" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-58" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="210" width="100" height="50" as="geometry" />
+          <mxGeometry x="990" y="210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-59" value="消息系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="280" width="100" height="50" as="geometry" />
+          <mxGeometry x="990" y="280" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="610" width="1070" height="70" as="geometry" />
+          <mxGeometry x="-100" y="610" width="1200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-61" value="存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-100" y="610" width="60" height="30" as="geometry" />
@@ -183,7 +183,22 @@
           <mxGeometry x="810" y="620" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-69" value="待办系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="360" width="100" height="50" as="geometry" />
+          <mxGeometry x="990" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iWvB2rDSd_n453SWa2m8-70" value="工单系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="230" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iWvB2rDSd_n453SWa2m8-72" value="人工诊断" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iWvB2rDSd_n453SWa2m8-73" value="TIS system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="240" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iWvB2rDSd_n453SWa2m8-74" value="DMS system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="270" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iWvB2rDSd_n453SWa2m8-75" value="QMS system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="300" width="85" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
