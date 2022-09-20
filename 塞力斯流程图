@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T02:17:05.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wE6NkCV5CDaHlhS-QFtr" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T02:31:05.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="x6ICa34dY5BCoCHPeJSw" version="20.3.3" type="github">
   <diagram id="VBuluh6JdLj000MuPLF7" name="第 1 页">
     <mxGraphModel dx="1796" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="iWvB2rDSd_n453SWa2m8-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="440" width="410" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="iWvB2rDSd_n453SWa2m8-20" value="智能诊断图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iWvB2rDSd_n453SWa2m8-20" value="智能诊断图谱平台（更新维护）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="60" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-9" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;数据全流程分析及可视化&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -181,6 +181,9 @@
         </mxCell>
         <mxCell id="iWvB2rDSd_n453SWa2m8-67" value="rabbitmq" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="810" y="620" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iWvB2rDSd_n453SWa2m8-69" value="待办系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="360" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
