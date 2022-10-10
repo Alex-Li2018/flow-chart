@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T06:42:10.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.3.7" etag="kTGVKag57uBVJumlP2NQ" type="github"><diagram id="o3CRnTp0sZL63usPGaeX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-10T07:01:30.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="F_o0tn0ySCdnN4wC_jUx" version="20.3.7" type="github">
+  <diagram id="o3CRnTp0sZL63usPGaeX" name="第 1 页">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T67vmgTS6MtwsTtxkfQu-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="T67vmgTS6MtwsTtxkfQu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T67vmgTS6MtwsTtxkfQu-1" target="T67vmgTS6MtwsTtxkfQu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T67vmgTS6MtwsTtxkfQu-1" value="找到拖蓝所在的位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T67vmgTS6MtwsTtxkfQu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T67vmgTS6MtwsTtxkfQu-2" target="T67vmgTS6MtwsTtxkfQu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T67vmgTS6MtwsTtxkfQu-2" value="删除拖蓝里的内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T67vmgTS6MtwsTtxkfQu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T67vmgTS6MtwsTtxkfQu-3" target="T67vmgTS6MtwsTtxkfQu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T67vmgTS6MtwsTtxkfQu-3" value="在拖蓝里插入新的内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T67vmgTS6MtwsTtxkfQu-4" value="重新定位光标所处的位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
